@@ -4,7 +4,7 @@ Facebook CLI client. For educational purposes only.
 
 Instalación:
 
-creacióon de cuenta con correo electronico y contraseña.
+creación de cuenta con correo electronico y contraseña.
 
 confirmación de la contraseña.
 
